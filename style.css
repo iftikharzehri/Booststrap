@@ -1,9 +1,9 @@
-.a{
-    position: absolute;
-width: 1440px;
-height: 780px;
-left: 0px;
-top: 512px;
+.bg-primary{
+    color: forestgreen;
+   }
 
-background: #C59999;
-}
+   .table{
+    width: 40px;
+    height: 40px;
+   }
+   
